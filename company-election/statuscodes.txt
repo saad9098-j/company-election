@@ -1,0 +1,7 @@
+200: OK
+400: Error occured: Unknown error
+500: Database error: IntegrityError
+101: failed to register: workerdID already registered
+102: failed to login: workerID not registered
+103: failed to login: wrong password
+104: failed to vote: workerID already voted
