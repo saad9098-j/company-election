@@ -29,5 +29,4 @@ What I learned
 - Understanding why single-page apps need a local server to run correctly
 
 - css
-  
-- Code kopieren
+
